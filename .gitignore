@@ -1,0 +1,8 @@
+.DS_Store
+.env
+logs/
+plugins/
+__pycache__/
+*.pyc
+weather.db
+weather.csv
